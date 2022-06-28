@@ -43,7 +43,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 
 7. Повторите шаги 3-6 для lighthouse. Помните, что одна роль должна настраивать один продукт.
 
-Не очень было понятно, зачем так много кликхаусов, сделал из своего ещё одну роль, как сказано в самом начале
+Не очень было понятно, зачем так много кликхаусов, сделал из своего ещё одну роль, как сказано в самом начале  
 https://github.com/SergeyKosmovsky/vector-role  
 https://github.com/SergeyKosmovsky/lighthouse-role  
 https://github.com/SergeyKosmovsky/clickhouse-role  
