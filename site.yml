@@ -1,0 +1,7 @@
+---
+- name: Install role
+  hosts: clickhouse
+  roles:
+    - vector-role
+    - lighthouse-role
+    - clickhouse-role
