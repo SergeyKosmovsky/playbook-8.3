@@ -67,6 +67,7 @@ Starting galaxy role install process
 
 11. В ответ приведите ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
 
+https://github.com/SergeyKosmovsky/clickhouse-role
 https://github.com/SergeyKosmovsky/vector-role  
 https://github.com/SergeyKosmovsky/lighthouse-role  
 https://github.com/SergeyKosmovsky/playbook-8.3  
