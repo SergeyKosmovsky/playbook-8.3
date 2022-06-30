@@ -54,11 +54,11 @@ https://github.com/SergeyKosmovsky/clickhouse-role
 Starting galaxy role install process
 - clickhouse (1.11.0) is already installed, skipping.
 - extracting vector-role to /root/.ansible/roles/vector-role
-- vector-role (1.0.0) was installed successfully
+- vector-role (1.0.1) was installed successfully
 - extracting lighthouse-role to /root/.ansible/roles/lighthouse-role
-- lighthouse-role (1.0.0.1) was installed successfully
+- lighthouse-role (1.0.0) was installed successfully
 - extracting clickhouse-role to /root/.ansible/roles/clickhouse-role
-- clickhouse-role (1.0.0) was installed successfully
+- clickhouse-role (1.1.2) was installed successfully
 ```
 
 9. Переработайте playbook на использование roles. Не забудьте про зависимости lighthouse и возможности совмещения roles с tasks.
